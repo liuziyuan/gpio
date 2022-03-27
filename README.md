@@ -4,7 +4,7 @@ raspberry pi gpio demo
 ## 传感器符号
 - GND: (接地)
 - S: 信号位
-- VCC: 3.3V 电源
+- VCC: 5V 电源
 
 ## GPIO用法解释
 
